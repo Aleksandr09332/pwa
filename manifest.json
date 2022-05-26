@@ -378,5 +378,7 @@
   "start_url": "https://aleksandr09332.github.io/pwa/",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "lang": "ru-RU"
 }

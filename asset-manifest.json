@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/pwa/static/css/main.073c9b0a.css",
-    "main.js": "/pwa/static/js/main.fd59bff0.js",
-    "static/js/787.b9d94275.chunk.js": "/pwa/static/js/787.b9d94275.chunk.js",
+    "main.css": "/pwa/static/css/main.0f409661.css",
+    "main.js": "/pwa/static/js/main.ba9582fa.js",
+    "static/js/905.25bdadf6.chunk.js": "/pwa/static/js/905.25bdadf6.chunk.js",
+    "static/js/893.97765232.chunk.js": "/pwa/static/js/893.97765232.chunk.js",
     "service-worker.js": "/pwa/service-worker.js",
-    "static/media/logo.svg": "/pwa/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
     "index.html": "/pwa/index.html",
-    "main.073c9b0a.css.map": "/pwa/static/css/main.073c9b0a.css.map",
-    "main.fd59bff0.js.map": "/pwa/static/js/main.fd59bff0.js.map",
-    "787.b9d94275.chunk.js.map": "/pwa/static/js/787.b9d94275.chunk.js.map"
+    "main.0f409661.css.map": "/pwa/static/css/main.0f409661.css.map",
+    "main.ba9582fa.js.map": "/pwa/static/js/main.ba9582fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fd59bff0.js"
+    "static/css/main.0f409661.css",
+    "static/js/main.ba9582fa.js"
   ]
 }
