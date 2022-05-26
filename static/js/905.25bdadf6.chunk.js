@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprototype_pwa=self.webpackChunkprototype_pwa||[]).push([[905],{8905:function(e){e.exports=JSON.parse('{"global":{"cancel":"Cancel","loading":"Loading...","add":"Add","rename":"Rename","remove":"Remove","export":"Export","yes":"Yes","no":"No","dateFrom":"From","dateTo":"To"}}')}}]);

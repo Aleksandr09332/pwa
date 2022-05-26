@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprototype_pwa=self.webpackChunkprototype_pwa||[]).push([[905],{8905:function(t){t.exports=JSON.parse('{"global":{"albums":"Albums","albumEmpty":"Untitled","author":"Author","authorEmpty":"anonymous","loading":"Loading..."}}')}}]);
